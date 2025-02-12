@@ -1,0 +1,22 @@
+.mydiv {
+    background-color: cadetblue;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 20px;
+border-style: double;
+    padding: 10px;
+}
+
+img {
+    width:-webkit-fill-available;
+}
+li{
+    color:goldenrod;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: chartreuse;
+}
